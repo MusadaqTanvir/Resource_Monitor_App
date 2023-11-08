@@ -15,4 +15,4 @@ To use the application, follow these steps:
 Clone the repository.
 Install the required dependencies using [pip].
 Configure the API endpoint in the settings.
-Run the application.
+Run the application.Thanks.
